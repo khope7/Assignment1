@@ -1,0 +1,1 @@
+Hello! Here are all the initial coding tasks in Assignment1, please let me know if you have any questions.
